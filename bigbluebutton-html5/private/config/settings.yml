@@ -26,7 +26,7 @@ public:
     # "media.setsinkid.enabled" to make it work properly
     enableDynamicAudioDeviceSelection: true
     #
-    clientTitle: BigBlueButton
+    clientTitle: Lightup
     appName: BigBlueButton HTML5 Client
     bbbServerVersion: HTML5_FULL_BBB_VERSION
     displayBbbServerVersion: true
